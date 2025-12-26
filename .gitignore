@@ -1,0 +1,12 @@
+.env
+__pycache__
+.DS_Store
+research_agent.db
+*.sqlite
+*.db
+.venv
+.python-version
+uv.lock
+vector_db/
+*.bin
+outputs/
