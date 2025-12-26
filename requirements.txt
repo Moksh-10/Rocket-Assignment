@@ -1,0 +1,16 @@
+python-dotenv
+pydantic
+asyncio
+langchain
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-groq
+huggingface-hub
+transformers
+sentence-transformers
+tokenizers
+chromadb
+tavily-python
+streamlit
+
