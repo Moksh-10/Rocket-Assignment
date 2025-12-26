@@ -30,8 +30,11 @@ uv pip install -r requirements.txt
 
 Create a .env file in the project root:
 
+
 TAVILY_API_KEY=your_tavily_api_key
+
 GROQ_API_KEY=your_groq_api_key
+
 TOKENIZERS_PARALLELISM=false
 
 6. Initialize the database (first run only)
