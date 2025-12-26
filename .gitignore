@@ -10,3 +10,4 @@ uv.lock
 vector_db/
 *.bin
 outputs/
+pyproject.toml
